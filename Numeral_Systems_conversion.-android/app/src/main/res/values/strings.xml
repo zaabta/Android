@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="decimel"> Decimel:</string>
+    <string name="binary"> Binary:</string>
+    <string name="octal"> Octal:</string>
+    <string name="hexadecimal"> HexaDecimal:</string>
+    <string name="calculate">   Calculate   </string>
+    <string name="Entersnum">Enter the number</string>
+</resources>

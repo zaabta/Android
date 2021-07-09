@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الملف العربي</string>
+    <string name="Entersnum">أدخل الرقم</string>
+    <string name="decimel"> نظام العد العشري:</string>
+    <string name="binary"> نظام العد الثنائي:</string>
+    <string name="octal"> نظام العد الثماني:</string>
+    <string name="hexadecimal"> نظام العد السداسي عشر:</string>
+    <string name="calculate">   احسب    </string>
+</resources>

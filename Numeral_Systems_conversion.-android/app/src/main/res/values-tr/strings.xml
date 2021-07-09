@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sayi sistemi</string>
+    <string name="decimel"> Onlu (Decimal):</string>
+    <string name="binary"> Ikili (Binary):</string>
+    <string name="octal"> Sekizli (Octal):</string>
+    <string name="hexadecimal"> Onaltılı (Hexadecimal):"</string>
+    <string name="calculate">     hesaplama    </string>
+    <string name="Entersnum">Sayi giriniz</string>
+</resources>
